@@ -1,4 +1,4 @@
-# nosql-challenge
+# NoSQL-Challenge
 
 ## Overview
 This project involves analyzing the UK Food Standards Agency dataset to assist the Eat Safe, Love food magazine in identifying key insights about food hygiene ratings. The project utilizes MongoDB for NoSQL database management and Python with PyMongo and Pandas for data processing and analysis.
